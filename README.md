@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! I'm Mi Ramos.
 
-<!--
-**mi-ramos/mi-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/mi-ramos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mi-ramos&count_private=true&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-ramos&layout=compact&theme=dark"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+
+<div>
+  <a ref="https://www.instagram.com/_ramos.mi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a ref="https://www.linkedin.com/in/milena-ramos-890558279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
