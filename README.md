@@ -14,6 +14,6 @@
  ##
 
 <div>
-  <a ref="https://www.instagram.com/_ramos.mi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a ref="https://www.instagram.com/_ramos.mi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a ref="https://www.linkedin.com/in/milena-ramos-890558279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
